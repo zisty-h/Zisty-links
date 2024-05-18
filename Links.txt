@@ -30,12 +30,16 @@
 ┣・https://github.com/zisty-h/syousetu.comDownloader
 ┣・https://github.com/zisty-h/VideoShareService-TanaTube-
 ┣・https://github.com/zisty-h/WebSite
-┗・https://github.com/zisty-h/ZistyBot-Discord
+┣・https://github.com/zisty-h/ZistyBot-Discord
+┗・https://github.com/zisty-h/Zisty-links/
 
 ■https://twitter.com/zisty_t
+
+
 
 第一版:2024/04/29.(作成)
 第二版:2024/05/02.(https://github.com/zisty-h/PokeRed-BadApple を追加)
 第三版:2024/05/03.(https://github.com/zisty-h/find_command-For-Windows を追加、githubのリンクを整列、一部表記を変更)
 第四版:2024/05/11.(https://github.com/zisty-h/ZistyBot-Discord を追加)
 第五版:2024/05/18.(githubに作成、githubに移行)
+第六版:     〃   .(https://github.com/zisty-h/Zisty-links/ を追加、改版情報をさらに下部に移動)
