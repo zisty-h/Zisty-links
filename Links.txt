@@ -1,0 +1,41 @@
+■https://zisty.net/
+┣■https://zisty.net/ja/
+┃┣・https://zisty.net/ja/blog/
+┃┣・https://zisty.net/ja/status/
+┃┗■https://zisty.net/ja/member/
+┃　┣・https://zisty.net/ja/member/piennu/
+┃　┣・https://zisty.net/ja/member/Syobosyobonn/
+┃　┗・
+┃
+┗■https://zisty.net/en/
+　┣・https://zisty.net/en/blog/
+　┣・https://zisty.net/en/status/
+　┗■https://zisty.net/en/member/
+　　┣・https://zisty.net/en/member/piennu/
+　　┣・https://zisty.net/en/member/Syobosyobonn/
+　　┗・
+
+■https://github.com/zisty-h/
+┣・https://github.com/zisty-h/cat-command-Japanese-support
+┣・https://github.com/zisty-h/Cat-JP-for-CSharp
+┣・https://github.com/zisty-h/find_command-For-Windows
+┣・https://github.com/zisty-h/FTP_Controller
+┣・https://github.com/zisty-h/MailTo
+┣・https://github.com/zisty-h/Make-QRcoder
+┣・https://github.com/zisty-h/MusicPlayerFromYouTube
+┣・https://github.com/zisty-h/PokeRed-BadApple
+┣・https://github.com/zisty-h/PokeRed-Byouga
+┣・https://github.com/zisty-h/SchoolPC-Shere-useGoogleDrive
+┣・https://github.com/zisty-h/Simple-Server-Software
+┣・https://github.com/zisty-h/syousetu.comDownloader
+┣・https://github.com/zisty-h/VideoShareService-TanaTube-
+┣・https://github.com/zisty-h/WebSite
+┗・https://github.com/zisty-h/ZistyBot-Discord
+
+■https://twitter.com/zisty_t
+
+第一版:2024/04/29.(作成)
+第二版:2024/05/02.(https://github.com/zisty-h/PokeRed-BadApple を追加)
+第三版:2024/05/03.(https://github.com/zisty-h/find_command-For-Windows を追加、githubのリンクを整列、一部表記を変更)
+第四版:2024/05/11.(https://github.com/zisty-h/ZistyBot-Discord を追加)
+第五版:2024/05/18.(githubに作成、githubに移行)
