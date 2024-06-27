@@ -57,4 +57,4 @@
 第四版:2024/05/11.(https://github.com/zisty-h/ZistyBot-Discord を追加)
 第五版:2024/05/18.(githubに作成、githubに移行)
 第六版:     〃   .(https://github.com/zisty-h/Zisty-links/ を追加、改版情報をさらに下部に移動)
-第七版:2024/06/27.(githubにD-Post,Important-Message-Alerter,Proxy,SimpleBrowser,を追加menberにtanahiro2010を追加,https://teams.zisty.net/,https://accounts.zisty.net/を追加statusページを削除)
+第七版:2024/06/27.(githubにD-Post,Important-Message-Alerter,Proxy,SimpleBrowser,を追加menberにtanahiro2010を追加,https://teams.zisty.net/ ,https://accounts.zisty.net/ を追加statusページを削除)
