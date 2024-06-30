@@ -27,13 +27,10 @@
 ■https://github.com/zisty-h/
 ┣・https://github.com/zisty-h/cat-command-Japanese-support
 ┣・https://github.com/zisty-h/Cat-JP-for-CSharp
-┣・https://github.com/zisty-h/D-Post
 ┣・https://github.com/zisty-h/find_command-For-Windows
-┣・https://github.com/zisty-h/FTP_Controller
 ┣・https://github.com/zisty-h/Important-Message-Alerter
 ┣・https://github.com/zisty-h/MailTo
 ┣・https://github.com/zisty-h/Make-QRcoder
-┣・https://github.com/zisty-h/MusicPlayerFromYouTube
 ┣・https://github.com/zisty-h/PokeRed-BadApple
 ┣・https://github.com/zisty-h/PokeRed-Byouga
 ┣・https://github.com/zisty-h/Proxy
@@ -42,7 +39,6 @@
 ┣・https://github.com/zisty-h/Simple-Server-Software
 ┣・https://github.com/zisty-h/syousetu.comDownloader
 ┣・https://github.com/zisty-h/VideoShareService-TanaTube-
-┣・https://github.com/zisty-h/WebSite
 ┣・https://github.com/zisty-h/ZistyBot-Discord
 ┗・https://github.com/zisty-h/Zisty-links/
 
@@ -58,3 +54,4 @@
 第五版:2024/05/18.(githubに作成、githubに移行)
 第六版:     〃   .(https://github.com/zisty-h/Zisty-links/ を追加、改版情報をさらに下部に移動)
 第七版:2024/06/27.(githubにD-Post,Important-Message-Alerter,Proxy,SimpleBrowser,を追加menberにtanahiro2010を追加,https://teams.zisty.net/ ,https://accounts.zisty.net/ を追加statusページを削除)
+第八版:2024/06/30.(一部表記を削除)
