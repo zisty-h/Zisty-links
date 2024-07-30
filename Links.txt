@@ -1,10 +1,10 @@
 ■https://zisty.net/
 ┣・https://zisty.net/blog/
 ┗■https://zisty.net/member/
- ┣・https://zisty.net/ja/member/piennu/
- ┣・https://zisty.net/ja/member/tanahiro2010/
- ┣・https://zisty.net/ja/member/kazu7/
- ┗・https://zisty.net/ja/member/Syobosyobonn/
+ ┣・https://zisty.net/member/piennu/
+ ┣・https://zisty.net/member/tanahiro2010/
+ ┣・https://zisty.net/member/kazu7/
+ ┗・https://zisty.net/member/Syobosyobonn/
 
 ■https://teams.zisty.net/
 ┣https://teams.zisty.net/terms/
