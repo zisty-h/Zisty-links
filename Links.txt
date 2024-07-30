@@ -1,32 +1,19 @@
 ■https://zisty.net/
-┣■https://zisty.net/ja/
-┃┣・https://zisty.net/ja/blog/
-┃┗■https://zisty.net/ja/member/
-┃　┣・https://zisty.net/ja/member/piennu/
-┃　┣・https://zisty.net/ja/member/Syobosyobonn/
-┃　┗・https://zisty.net/ja/member/tanahiro2010/
-┃
-┗■https://zisty.net/en/
-　┣・https://zisty.net/en/blog/
-　┗■https://zisty.net/en/member/
-　　┣・https://zisty.net/en/member/piennu/
-　　┣・https://zisty.net/en/member/Syobosyobonn/
-　　┗・https://zisty.net/en/member/tanahiro2010/
+┣・https://zisty.net/blog/
+┗■https://zisty.net/member/
+ ┣・https://zisty.net/ja/member/piennu/
+ ┣・https://zisty.net/ja/member/tanahiro2010/
+ ┣・https://zisty.net/ja/member/kazu7/
+ ┗・https://zisty.net/ja/member/Syobosyobonn/
 
 ■https://teams.zisty.net/
-┣■https://teams.zisty.net/ja/
-┃┣https://teams.zisty.net/ja/terms/
-┃┗https://teams.zisty.net/ja/privacy/
-┗■https://teams.zisty.net/en/
-　┣https://teams.zisty.net/en/terms/
-　┗https://teams.zisty.net/en/privacy/
-
-■https://accounts.zisty.net/
-┗・https://accounts.zisty.net/login/
+┣https://teams.zisty.net/terms/
+┗https://teams.zisty.net/privacy/
 
 ■https://github.com/zisty-h/
 ┣・https://github.com/zisty-h/cat-command-Japanese-support
 ┣・https://github.com/zisty-h/Cat-JP-for-CSharp
+┣・https://github.com/zisty-h/EasyDialog
 ┣・https://github.com/zisty-h/find_command-For-Windows
 ┣・https://github.com/zisty-h/Important-Message-Alerter
 ┣・https://github.com/zisty-h/MailTo
@@ -38,6 +25,7 @@
 ┣・https://github.com/zisty-h/SimpleBrowser
 ┣・https://github.com/zisty-h/Simple-Server-Software
 ┣・https://github.com/zisty-h/syousetu.comDownloader
+┣・https://github.com/zisty-h/tree2txt
 ┣・https://github.com/zisty-h/VideoShareService-TanaTube-
 ┣・https://github.com/zisty-h/ZistyBot-Discord
 ┗・https://github.com/zisty-h/Zisty-links/
@@ -55,3 +43,4 @@
 第六版:     〃   .(https://github.com/zisty-h/Zisty-links/ を追加、改版情報をさらに下部に移動)
 第七版:2024/06/27.(githubにD-Post,Important-Message-Alerter,Proxy,SimpleBrowser,を追加menberにtanahiro2010を追加,https://teams.zisty.net/ ,https://accounts.zisty.net/ を追加statusページを削除)
 第八版:2024/06/30.(一部表記を削除)
+第九版:2024/07/30.(/ja/,/en/の区別を削除、一部表記を削除、Github傘下にEasyDialog,tree2txtを追加、Menmberにkazu7を追加)
